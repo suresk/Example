@@ -1,0 +1,4 @@
+id,name,email,username,password,salary,teacherType,age,active
+1,Dr. Smith,drsmith@experticity.com,drsmith,asdf123,250000,TENURED,71,true
+2,Dr. Jones,jones@experticity.com,jones,alkdfn,100000,ASSOCIATE,55,false
+3,Mr. F,mrf@experticity.com,mrf,ad123,4000,ADJUNCT,32,true

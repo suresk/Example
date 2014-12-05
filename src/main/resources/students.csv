@@ -1,0 +1,4 @@
+id,name,email,username,password,gpa,yearInSchool,totalCreditHours,currentlyEnrolled
+1,Jim,jim@experticity.com,jimj,jjj123,4.0,SOPHOMORE,41,true
+2,Spencer,spencer@experticity.com,spencer,pa$$word,3.3,JUNIOR,80,true
+3,Jon,jon@experticity.com,jon,test,2.9,SENIOR,110,true
